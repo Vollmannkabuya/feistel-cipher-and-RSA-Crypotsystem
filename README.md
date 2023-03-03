@@ -1,5 +1,5 @@
 # feistel-cipher-and-RSA-Crypotsystem
-Voici un guide détaillé sur l'exécution de votre programme en console:
+Voici un guide détaillé sur l'exécution de mon programme en console:
 
 Assurez-vous que vous avez Python 3 installé sur votre ordinateur.
 Clonez le dépôt GitHub contenant les deux fichiers Python sur votre ordinateur.
